@@ -1,0 +1,20 @@
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+config.ini
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Ferramentas e sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+

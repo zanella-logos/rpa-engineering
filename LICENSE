@@ -1,0 +1,8 @@
+RPA Engineering usa licenciamento duplo.
+
+1. Arquivos de documentação, incluindo Markdown fora de `examples/`, são licenciados sob Creative Commons Attribution 4.0 International (CC BY 4.0). Consulte LICENSE-DOCS.md.
+
+2. Código-fonte e arquivos de exemplo dentro de `examples/` são licenciados sob MIT. Consulte LICENSE-CODE.
+
+Quando um arquivo declarar outra licença de forma explícita, a declaração do próprio arquivo prevalece.
+
